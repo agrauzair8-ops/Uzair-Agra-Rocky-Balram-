@@ -1,0 +1,2 @@
+The Interview Questions Generator
+​In an era where the right hire can define a company’s trajectory, the traditional "winging it" approach to interviews is no longer viable. The AI Interview Questions Generator is a sophisticated, algorithm-driven tool designed to bridge the gap between a static job description and a dynamic, insightful conversation. By utilizing advanced Natural Language Processing (NLP), it deconstructs the nuances of a role to produce a structured roadmap for evaluation.
